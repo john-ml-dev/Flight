@@ -1,0 +1,1372 @@
+{
+  "countries": [
+    {
+      "name": "Afghanistan",
+      "url": "https://www.flightradar24.com/data/airports/afghanistan",
+      "airports": 11,
+      "code": "AFG"
+    },
+    {
+      "name": "Albania",
+      "url": "https://www.flightradar24.com/data/airports/albania",
+      "airports": 2,
+      "code": "ALB"
+    },
+    {
+      "name": "Algeria",
+      "url": "https://www.flightradar24.com/data/airports/algeria",
+      "airports": 33,
+      "code": "DZA"
+    },
+    {
+      "name": "American Samoa",
+      "url": "https://www.flightradar24.com/data/airports/american-samoa",
+      "airports": 1,
+      "code": "ASM"
+    },
+    {
+      "name": "Angola",
+      "url": "https://www.flightradar24.com/data/airports/angola",
+      "airports": 14,
+      "code": "AGO"
+    },
+    {
+      "name": "Anguilla",
+      "url": "https://www.flightradar24.com/data/airports/anguilla",
+      "airports": 1,
+      "code": "AIA"
+    },
+    {
+      "name": "Antarctica",
+      "url": "https://www.flightradar24.com/data/airports/antarctica",
+      "airports": 14,
+      "code": "ATA"
+    },
+    {
+      "name": "Antigua And Barbuda",
+      "url": "https://www.flightradar24.com/data/airports/antigua-and-barbuda",
+      "airports": 2,
+      "code": "ATG"
+    },
+    {
+      "name": "Argentina",
+      "url": "https://www.flightradar24.com/data/airports/argentina",
+      "airports": 48,
+      "code": "ARG"
+    },
+    {
+      "name": "Armenia",
+      "url": "https://www.flightradar24.com/data/airports/armenia",
+      "airports": 3,
+      "code": "ARM"
+    },
+    {
+      "name": "Aruba",
+      "url": "https://www.flightradar24.com/data/airports/aruba",
+      "airports": 1,
+      "code": "ABW"
+    },
+    {
+      "name": "Australia",
+      "url": "https://www.flightradar24.com/data/airports/australia",
+      "airports": 395,
+      "code": "AUS"
+    },
+    {
+      "name": "Austria",
+      "url": "https://www.flightradar24.com/data/airports/austria",
+      "airports": 12,
+      "code": "AUT"
+    },
+    {
+      "name": "Azerbaijan",
+      "url": "https://www.flightradar24.com/data/airports/azerbaijan",
+      "airports": 7,
+      "code": "AZE"
+    },
+    {
+      "name": "Bahamas",
+      "url": "https://www.flightradar24.com/data/airports/bahamas",
+      "airports": 31,
+      "code": "BHS"
+    },
+    {
+      "name": "Bahrain",
+      "url": "https://www.flightradar24.com/data/airports/bahrain",
+      "airports": 2,
+      "code": "BHR"
+    },
+    {
+      "name": "Bangladesh",
+      "url": "https://www.flightradar24.com/data/airports/bangladesh",
+      "airports": 8,
+      "code": "BGD"
+    },
+    {
+      "name": "Barbados",
+      "url": "https://www.flightradar24.com/data/airports/barbados",
+      "airports": 1,
+      "code": "BRB"
+    },
+    {
+      "name": "Belarus",
+      "url": "https://www.flightradar24.com/data/airports/belarus",
+      "airports": 6,
+      "code": "BLR"
+    },
+    {
+      "name": "Belgium",
+      "url": "https://www.flightradar24.com/data/airports/belgium",
+      "airports": 6,
+      "code": "BEL"
+    },
+    {
+      "name": "Belize",
+      "url": "https://www.flightradar24.com/data/airports/belize",
+      "airports": 10,
+      "code": "BLZ"
+    },
+    {
+      "name": "Benin",
+      "url": "https://www.flightradar24.com/data/airports/benin",
+      "airports": 1,
+      "code": "BEN"
+    },
+    {
+      "name": "Bermuda",
+      "url": "https://www.flightradar24.com/data/airports/bermuda",
+      "airports": 1,
+      "code": "BMU"
+    },
+    {
+      "name": "Bhutan",
+      "url": "https://www.flightradar24.com/data/airports/bhutan",
+      "airports": 4,
+      "code": "BTN"
+    },
+    {
+      "name": "Bolivia",
+      "url": "https://www.flightradar24.com/data/airports/bolivia",
+      "airports": 17,
+      "code": "BOL"
+    },
+    {
+      "name": "Bosnia And Herzegovina",
+      "url": "https://www.flightradar24.com/data/airports/bosnia-and-herzegovina",
+      "airports": 4,
+      "code": "BIH"
+    },
+    {
+      "name": "Botswana",
+      "url": "https://www.flightradar24.com/data/airports/botswana",
+      "airports": 4,
+      "code": "BWA"
+    },
+    {
+      "name": "Brazil",
+      "url": "https://www.flightradar24.com/data/airports/brazil",
+      "airports": 210,
+      "code": "BRA"
+    },
+    {
+      "name": "Brunei",
+      "url": "https://www.flightradar24.com/data/airports/brunei",
+      "airports": 1,
+      "code": "BRN"
+    },
+    {
+      "name": "Bulgaria",
+      "url": "https://www.flightradar24.com/data/airports/bulgaria",
+      "airports": 6,
+      "code": "BGR"
+    },
+    {
+      "name": "Burkina Faso",
+      "url": "https://www.flightradar24.com/data/airports/burkina-faso",
+      "airports": 1,
+      "code": "BFA"
+    },
+    {
+      "name": "Burundi",
+      "url": "https://www.flightradar24.com/data/airports/burundi",
+      "airports": 1,
+      "code": "BDI"
+    },
+    {
+      "name": "Cambodia",
+      "url": "https://www.flightradar24.com/data/airports/cambodia",
+      "airports": 4,
+      "code": "KHM"
+    },
+    {
+      "name": "Cameroon",
+      "url": "https://www.flightradar24.com/data/airports/cameroon",
+      "airports": 9,
+      "code": "CMR"
+    },
+    {
+      "name": "Canada",
+      "url": "https://www.flightradar24.com/data/airports/canada",
+      "airports": 295,
+      "code": "CAN"
+    },
+    {
+      "name": "Cape Verde",
+      "url": "https://www.flightradar24.com/data/airports/cape-verde",
+      "airports": 7,
+      "code": "CPV"
+    },
+    {
+      "name": "Cayman Islands",
+      "url": "https://www.flightradar24.com/data/airports/cayman-islands",
+      "airports": 3,
+      "code": "CYM"
+    },
+    {
+      "name": "Central African Republic",
+      "url": "https://www.flightradar24.com/data/airports/central-african-republic",
+      "airports": 2,
+      "code": "CAF"
+    },
+    {
+      "name": "Chad",
+      "url": "https://www.flightradar24.com/data/airports/chad",
+      "airports": 1,
+      "code": "TCD"
+    },
+    {
+      "name": "Chile",
+      "url": "https://www.flightradar24.com/data/airports/chile",
+      "airports": 20,
+      "code": "CHL"
+    },
+    {
+      "name": "China",
+      "url": "https://www.flightradar24.com/data/airports/china",
+      "airports": 252,
+      "code": "CHN"
+    },
+    {
+      "name": "Cocos (keeling) Islands",
+      "url": "https://www.flightradar24.com/data/airports/cocos-keeling-islands",
+      "airports": 1,
+      "code": "CCK"
+    },
+    {
+      "name": "Colombia",
+      "url": "https://www.flightradar24.com/data/airports/colombia",
+      "airports": 58,
+      "code": "COL"
+    },
+    {
+      "name": "Comoros",
+      "url": "https://www.flightradar24.com/data/airports/comoros",
+      "airports": 2,
+      "code": "COM"
+    },
+    {
+      "name": "Congo",
+      "url": "https://www.flightradar24.com/data/airports/congo",
+      "airports": 2,
+      "code": "COG"
+    },
+    {
+      "name": "Cook Islands",
+      "url": "https://www.flightradar24.com/data/airports/cook-islands",
+      "airports": 2,
+      "code": "COK"
+    },
+    {
+      "name": "Costa Rica",
+      "url": "https://www.flightradar24.com/data/airports/costa-rica",
+      "airports": 16,
+      "code": "CRI"
+    },
+    {
+      "name": "Croatia",
+      "url": "https://www.flightradar24.com/data/airports/croatia",
+      "airports": 9,
+      "code": "HRV"
+    },
+    {
+      "name": "Cuba",
+      "url": "https://www.flightradar24.com/data/airports/cuba",
+      "airports": 13,
+      "code": "CUB"
+    },
+    {
+      "name": "Curacao",
+      "url": "https://www.flightradar24.com/data/airports/curacao",
+      "airports": 1,
+      "code": "CUW"
+    },
+    {
+      "name": "Cyprus",
+      "url": "https://www.flightradar24.com/data/airports/cyprus",
+      "airports": 3,
+      "code": "CYP"
+    },
+    {
+      "name": "Czechia",
+      "url": "https://www.flightradar24.com/data/airports/czechia",
+      "airports": 17,
+      "code": "CZE"
+    },
+    {
+      "name": "Democratic Republic Of The Congo",
+      "url": "https://www.flightradar24.com/data/airports/democratic-republic-of-the-congo",
+      "airports": 16,
+      "code": "COD"
+    },
+    {
+      "name": "Denmark",
+      "url": "https://www.flightradar24.com/data/airports/denmark",
+      "airports": 20,
+      "code": "DNK"
+    },
+    {
+      "name": "Djibouti",
+      "url": "https://www.flightradar24.com/data/airports/djibouti",
+      "airports": 1,
+      "code": "DJI"
+    },
+    {
+      "name": "Dominica",
+      "url": "https://www.flightradar24.com/data/airports/dominica",
+      "airports": 2,
+      "code": "DMA"
+    },
+    {
+      "name": "Dominican Republic",
+      "url": "https://www.flightradar24.com/data/airports/dominican-republic",
+      "airports": 8,
+      "code": "DOM"
+    },
+    {
+      "name": "Ecuador",
+      "url": "https://www.flightradar24.com/data/airports/ecuador",
+      "airports": 13,
+      "code": "ECU"
+    },
+    {
+      "name": "Egypt",
+      "url": "https://www.flightradar24.com/data/airports/egypt",
+      "airports": 17,
+      "code": "EGY"
+    },
+    {
+      "name": "El Salvador",
+      "url": "https://www.flightradar24.com/data/airports/el-salvador",
+      "airports": 2,
+      "code": "SLV"
+    },
+    {
+      "name": "Equatorial Guinea",
+      "url": "https://www.flightradar24.com/data/airports/equatorial-guinea",
+      "airports": 4,
+      "code": "GNQ"
+    },
+    {
+      "name": "Eritrea",
+      "url": "https://www.flightradar24.com/data/airports/eritrea",
+      "airports": 1,
+      "code": "ERI"
+    },
+    {
+      "name": "Estonia",
+      "url": "https://www.flightradar24.com/data/airports/estonia",
+      "airports": 5,
+      "code": "EST"
+    },
+    {
+      "name": "Eswatini",
+      "url": "https://www.flightradar24.com/data/airports/eswatini",
+      "airports": 2,
+      "code": "SWZ"
+    },
+    {
+      "name": "Ethiopia",
+      "url": "https://www.flightradar24.com/data/airports/ethiopia",
+      "airports": 21,
+      "code": "ETH"
+    },
+    {
+      "name": "Falkland Islands (malvinas)",
+      "url": "https://www.flightradar24.com/data/airports/falkland-islands-malvinas",
+      "airports": 2,
+      "code": "FLK"
+    },
+    {
+      "name": "Faroe Islands",
+      "url": "https://www.flightradar24.com/data/airports/faroe-islands",
+      "airports": 1,
+      "code": "FRO"
+    },
+    {
+      "name": "Fiji",
+      "url": "https://www.flightradar24.com/data/airports/fiji",
+      "airports": 11,
+      "code": "FJI"
+    },
+    {
+      "name": "Finland",
+      "url": "https://www.flightradar24.com/data/airports/finland",
+      "airports": 23,
+      "code": "FIN"
+    },
+    {
+      "name": "France",
+      "url": "https://www.flightradar24.com/data/airports/france",
+      "airports": 133,
+      "code": "FRA"
+    },
+    {
+      "name": "French Guiana",
+      "url": "https://www.flightradar24.com/data/airports/french-guiana",
+      "airports": 1,
+      "code": "GUF"
+    },
+    {
+      "name": "French Polynesia",
+      "url": "https://www.flightradar24.com/data/airports/french-polynesia",
+      "airports": 45,
+      "code": "PYF"
+    },
+    {
+      "name": "Gabon",
+      "url": "https://www.flightradar24.com/data/airports/gabon",
+      "airports": 3,
+      "code": "GAB"
+    },
+    {
+      "name": "Gambia",
+      "url": "https://www.flightradar24.com/data/airports/gambia",
+      "airports": 1,
+      "code": "GMB"
+    },
+    {
+      "name": "Georgia",
+      "url": "https://www.flightradar24.com/data/airports/georgia",
+      "airports": 3,
+      "code": "GEO"
+    },
+    {
+      "name": "Germany",
+      "url": "https://www.flightradar24.com/data/airports/germany",
+      "airports": 121,
+      "code": "DEU"
+    },
+    {
+      "name": "Ghana",
+      "url": "https://www.flightradar24.com/data/airports/ghana",
+      "airports": 6,
+      "code": "GHA"
+    },
+    {
+      "name": "Gibraltar",
+      "url": "https://www.flightradar24.com/data/airports/gibraltar",
+      "airports": 1,
+      "code": "GIB"
+    },
+    {
+      "name": "Greece",
+      "url": "https://www.flightradar24.com/data/airports/greece",
+      "airports": 39,
+      "code": "GRC"
+    },
+    {
+      "name": "Greenland",
+      "url": "https://www.flightradar24.com/data/airports/greenland",
+      "airports": 15,
+      "code": "GRL"
+    },
+    {
+      "name": "Grenada",
+      "url": "https://www.flightradar24.com/data/airports/grenada",
+      "airports": 1,
+      "code": "GRD"
+    },
+    {
+      "name": "Guadeloupe",
+      "url": "https://www.flightradar24.com/data/airports/guadeloupe",
+      "airports": 4,
+      "code": "GLP"
+    },
+    {
+      "name": "Guam",
+      "url": "https://www.flightradar24.com/data/airports/guam",
+      "airports": 2,
+      "code": "GUM"
+    },
+    {
+      "name": "Guatemala",
+      "url": "https://www.flightradar24.com/data/airports/guatemala",
+      "airports": 5,
+      "code": "GTM"
+    },
+    {
+      "name": "Guernsey",
+      "url": "https://www.flightradar24.com/data/airports/guernsey",
+      "airports": 2,
+      "code": "GGY"
+    },
+    {
+      "name": "Guinea",
+      "url": "https://www.flightradar24.com/data/airports/guinea",
+      "airports": 1,
+      "code": "GIN"
+    },
+    {
+      "name": "Guinea-bissau",
+      "url": "https://www.flightradar24.com/data/airports/guinea-bissau",
+      "airports": 1,
+      "code": "GNB"
+    },
+    {
+      "name": "Guyana",
+      "url": "https://www.flightradar24.com/data/airports/guyana",
+      "airports": 3,
+      "code": "GUY"
+    },
+    {
+      "name": "Haiti",
+      "url": "https://www.flightradar24.com/data/airports/haiti",
+      "airports": 3,
+      "code": "HTI"
+    },
+    {
+      "name": "Honduras",
+      "url": "https://www.flightradar24.com/data/airports/honduras",
+      "airports": 6,
+      "code": "HND"
+    },
+    {
+      "name": "Hong Kong",
+      "url": "https://www.flightradar24.com/data/airports/hong-kong",
+      "airports": 1,
+      "code": "HKG"
+    },
+    {
+      "name": "Hungary",
+      "url": "https://www.flightradar24.com/data/airports/hungary",
+      "airports": 11,
+      "code": "HUN"
+    },
+    {
+      "name": "Iceland",
+      "url": "https://www.flightradar24.com/data/airports/iceland",
+      "airports": 16,
+      "code": "ISL"
+    },
+    {
+      "name": "India",
+      "url": "https://www.flightradar24.com/data/airports/india",
+      "airports": 128,
+      "code": "IND"
+    },
+    {
+      "name": "Indonesia",
+      "url": "https://www.flightradar24.com/data/airports/indonesia",
+      "airports": 134,
+      "code": "IDN"
+    },
+    {
+      "name": "Iran",
+      "url": "https://www.flightradar24.com/data/airports/iran",
+      "airports": 64,
+      "code": "IRN"
+    },
+    {
+      "name": "Iraq",
+      "url": "https://www.flightradar24.com/data/airports/iraq",
+      "airports": 7,
+      "code": "IRQ"
+    },
+    {
+      "name": "Ireland",
+      "url": "https://www.flightradar24.com/data/airports/ireland",
+      "airports": 9,
+      "code": "IRL"
+    },
+    {
+      "name": "Isle Of Man",
+      "url": "https://www.flightradar24.com/data/airports/isle-of-man",
+      "airports": 1,
+      "code": "IMN"
+    },
+    {
+      "name": "Israel",
+      "url": "https://www.flightradar24.com/data/airports/israel",
+      "airports": 3,
+      "code": "ISR"
+    },
+    {
+      "name": "Italy",
+      "url": "https://www.flightradar24.com/data/airports/italy",
+      "airports": 71,
+      "code": "ITA"
+    },
+    {
+      "name": "Ivory Coast",
+      "url": "https://www.flightradar24.com/data/airports/ivory-coast",
+      "airports": 4,
+      "code": "CIV"
+    },
+    {
+      "name": "Jamaica",
+      "url": "https://www.flightradar24.com/data/airports/jamaica",
+      "airports": 3,
+      "code": "JAM"
+    },
+    {
+      "name": "Japan",
+      "url": "https://www.flightradar24.com/data/airports/japan",
+      "airports": 84,
+      "code": "JPN"
+    },
+    {
+      "name": "Jersey",
+      "url": "https://www.flightradar24.com/data/airports/jersey",
+      "airports": 1,
+      "code": "JEY"
+    },
+    {
+      "name": "Jordan",
+      "url": "https://www.flightradar24.com/data/airports/jordan",
+      "airports": 3,
+      "code": "JOR"
+    },
+    {
+      "name": "Kazakhstan",
+      "url": "https://www.flightradar24.com/data/airports/kazakhstan",
+      "airports": 23,
+      "code": "KAZ"
+    },
+    {
+      "name": "Kenya",
+      "url": "https://www.flightradar24.com/data/airports/kenya",
+      "airports": 27,
+      "code": "KEN"
+    },
+    {
+      "name": "Kiribati",
+      "url": "https://www.flightradar24.com/data/airports/kiribati",
+      "airports": 11,
+      "code": "KIR"
+    },
+    {
+      "name": "Kosovo",
+      "url": "https://www.flightradar24.com/data/airports/kosovo",
+      "airports": 1,
+      "code": "XKX"
+    },
+    {
+      "name": "Kuwait",
+      "url": "https://www.flightradar24.com/data/airports/kuwait",
+      "airports": 1,
+      "code": "KWT"
+    },
+    {
+      "name": "Kyrgyzstan",
+      "url": "https://www.flightradar24.com/data/airports/kyrgyzstan",
+      "airports": 3,
+      "code": "KGZ"
+    },
+    {
+      "name": "Laos",
+      "url": "https://www.flightradar24.com/data/airports/laos",
+      "airports": 8,
+      "code": "LAO"
+    },
+    {
+      "name": "Latvia",
+      "url": "https://www.flightradar24.com/data/airports/latvia",
+      "airports": 3,
+      "code": "LVA"
+    },
+    {
+      "name": "Lebanon",
+      "url": "https://www.flightradar24.com/data/airports/lebanon",
+      "airports": 1,
+      "code": "LBN"
+    },
+    {
+      "name": "Lesotho",
+      "url": "https://www.flightradar24.com/data/airports/lesotho",
+      "airports": 1,
+      "code": "LSO"
+    },
+    {
+      "name": "Liberia",
+      "url": "https://www.flightradar24.com/data/airports/liberia",
+      "airports": 1,
+      "code": "LBR"
+    },
+    {
+      "name": "Libya",
+      "url": "https://www.flightradar24.com/data/airports/libya",
+      "airports": 10,
+      "code": "LBY"
+    },
+    {
+      "name": "Lithuania",
+      "url": "https://www.flightradar24.com/data/airports/lithuania",
+      "airports": 4,
+      "code": "LTU"
+    },
+    {
+      "name": "Luxembourg",
+      "url": "https://www.flightradar24.com/data/airports/luxembourg",
+      "airports": 1,
+      "code": "LUX"
+    },
+    {
+      "name": "Macao",
+      "url": "https://www.flightradar24.com/data/airports/macao",
+      "airports": 1,
+      "code": "MAC"
+    },
+    {
+      "name": "Madagascar",
+      "url": "https://www.flightradar24.com/data/airports/madagascar",
+      "airports": 12,
+      "code": "MDG"
+    },
+    {
+      "name": "Malawi",
+      "url": "https://www.flightradar24.com/data/airports/malawi",
+      "airports": 2,
+      "code": "MWI"
+    },
+    {
+      "name": "Malaysia",
+      "url": "https://www.flightradar24.com/data/airports/malaysia",
+      "airports": 35,
+      "code": "MYS"
+    },
+    {
+      "name": "Maldives",
+      "url": "https://www.flightradar24.com/data/airports/maldives",
+      "airports": 18,
+      "code": "MDV"
+    },
+    {
+      "name": "Mali",
+      "url": "https://www.flightradar24.com/data/airports/mali",
+      "airports": 2,
+      "code": "MLI"
+    },
+    {
+      "name": "Malta",
+      "url": "https://www.flightradar24.com/data/airports/malta",
+      "airports": 1,
+      "code": "MLT"
+    },
+    {
+      "name": "Marshall Islands",
+      "url": "https://www.flightradar24.com/data/airports/marshall-islands",
+      "airports": 2,
+      "code": "MHL"
+    },
+    {
+      "name": "Martinique",
+      "url": "https://www.flightradar24.com/data/airports/martinique",
+      "airports": 1,
+      "code": "MTQ"
+    },
+    {
+      "name": "Mauritania",
+      "url": "https://www.flightradar24.com/data/airports/mauritania",
+      "airports": 3,
+      "code": "MRT"
+    },
+    {
+      "name": "Mauritius",
+      "url": "https://www.flightradar24.com/data/airports/mauritius",
+      "airports": 2,
+      "code": "MUS"
+    },
+    {
+      "name": "Mayotte",
+      "url": "https://www.flightradar24.com/data/airports/mayotte",
+      "airports": 1,
+      "code": "MYT"
+    },
+    {
+      "name": "Mexico",
+      "url": "https://www.flightradar24.com/data/airports/mexico",
+      "airports": 75,
+      "code": "MEX"
+    },
+    {
+      "name": "Micronesia",
+      "url": "https://www.flightradar24.com/data/airports/micronesia",
+      "airports": 4,
+      "code": "FSM"
+    },
+    {
+      "name": "Moldova",
+      "url": "https://www.flightradar24.com/data/airports/moldova",
+      "airports": 1,
+      "code": "MDA"
+    },
+    {
+      "name": "Monaco",
+      "url": "https://www.flightradar24.com/data/airports/monaco",
+      "airports": 1,
+      "code": "MCO"
+    },
+    {
+      "name": "Mongolia",
+      "url": "https://www.flightradar24.com/data/airports/mongolia",
+      "airports": 9,
+      "code": "MNG"
+    },
+    {
+      "name": "Montenegro",
+      "url": "https://www.flightradar24.com/data/airports/montenegro",
+      "airports": 2,
+      "code": "MNE"
+    },
+    {
+      "name": "Montserrat",
+      "url": "https://www.flightradar24.com/data/airports/montserrat",
+      "airports": 1,
+      "code": "MSR"
+    },
+    {
+      "name": "Morocco",
+      "url": "https://www.flightradar24.com/data/airports/morocco",
+      "airports": 21,
+      "code": "MAR"
+    },
+    {
+      "name": "Mozambique",
+      "url": "https://www.flightradar24.com/data/airports/mozambique",
+      "airports": 12,
+      "code": "MOZ"
+    },
+    {
+      "name": "Myanmar (burma)",
+      "url": "https://www.flightradar24.com/data/airports/myanmar-burma",
+      "airports": 28,
+      "code": "MMR"
+    },
+    {
+      "name": "Namibia",
+      "url": "https://www.flightradar24.com/data/airports/namibia",
+      "airports": 11,
+      "code": "NAM"
+    },
+    {
+      "name": "Nauru",
+      "url": "https://www.flightradar24.com/data/airports/nauru",
+      "airports": 1,
+      "code": "NRU"
+    },
+    {
+      "name": "Nepal",
+      "url": "https://www.flightradar24.com/data/airports/nepal",
+      "airports": 20,
+      "code": "NPL"
+    },
+    {
+      "name": "Netherlands",
+      "url": "https://www.flightradar24.com/data/airports/netherlands",
+      "airports": 16,
+      "code": "NLD"
+    },
+    {
+      "name": "New Caledonia",
+      "url": "https://www.flightradar24.com/data/airports/new-caledonia",
+      "airports": 10,
+      "code": "NCL"
+    },
+    {
+      "name": "New Zealand",
+      "url": "https://www.flightradar24.com/data/airports/new-zealand",
+      "airports": 44,
+      "code": "NZL"
+    },
+    {
+      "name": "Nicaragua",
+      "url": "https://www.flightradar24.com/data/airports/nicaragua",
+      "airports": 4,
+      "code": "NIC"
+    },
+    {
+      "name": "Niger",
+      "url": "https://www.flightradar24.com/data/airports/niger",
+      "airports": 4,
+      "code": "NER"
+    },
+    {
+      "name": "Nigeria",
+      "url": "https://www.flightradar24.com/data/airports/nigeria",
+      "airports": 22,
+      "code": "NGA"
+    },
+    {
+      "name": "North Korea",
+      "url": "https://www.flightradar24.com/data/airports/north-korea",
+      "airports": 1,
+      "code": "PRK"
+    },
+    {
+      "name": "North Macedonia",
+      "url": "https://www.flightradar24.com/data/airports/north-macedonia",
+      "airports": 2,
+      "code": "MKD"
+    },
+    {
+      "name": "Northern Mariana Islands",
+      "url": "https://www.flightradar24.com/data/airports/northern-mariana-islands",
+      "airports": 3,
+      "code": "MNP"
+    },
+    {
+      "name": "Norway",
+      "url": "https://www.flightradar24.com/data/airports/norway",
+      "airports": 55,
+      "code": "NOR"
+    },
+    {
+      "name": "Oman",
+      "url": "https://www.flightradar24.com/data/airports/oman",
+      "airports": 6,
+      "code": "OMN"
+    },
+    {
+      "name": "Pakistan",
+      "url": "https://www.flightradar24.com/data/airports/pakistan",
+      "airports": 21,
+      "code": "PAK"
+    },
+    {
+      "name": "Palau",
+      "url": "https://www.flightradar24.com/data/airports/palau",
+      "airports": 1,
+      "code": "PLW"
+    },
+    {
+      "name": "Panama",
+      "url": "https://www.flightradar24.com/data/airports/panama",
+      "airports": 10,
+      "code": "PAN"
+    },
+    {
+      "name": "Papua New Guinea",
+      "url": "https://www.flightradar24.com/data/airports/papua-new-guinea",
+      "airports": 31,
+      "code": "PNG"
+    },
+    {
+      "name": "Paraguay",
+      "url": "https://www.flightradar24.com/data/airports/paraguay",
+      "airports": 2,
+      "code": "PRY"
+    },
+    {
+      "name": "Peru",
+      "url": "https://www.flightradar24.com/data/airports/peru",
+      "airports": 28,
+      "code": "PER"
+    },
+    {
+      "name": "Philippines",
+      "url": "https://www.flightradar24.com/data/airports/philippines",
+      "airports": 48,
+      "code": "PHL"
+    },
+    {
+      "name": "Poland",
+      "url": "https://www.flightradar24.com/data/airports/poland",
+      "airports": 30,
+      "code": "POL"
+    },
+    {
+      "name": "Portugal",
+      "url": "https://www.flightradar24.com/data/airports/portugal",
+      "airports": 26,
+      "code": "PRT"
+    },
+    {
+      "name": "Puerto Rico",
+      "url": "https://www.flightradar24.com/data/airports/puerto-rico",
+      "airports": 9,
+      "code": "PRI"
+    },
+    {
+      "name": "Qatar",
+      "url": "https://www.flightradar24.com/data/airports/qatar",
+      "airports": 3,
+      "code": "QAT"
+    },
+    {
+      "name": "Reunion",
+      "url": "https://www.flightradar24.com/data/airports/reunion",
+      "airports": 2,
+      "code": "REU"
+    },
+    {
+      "name": "Romania",
+      "url": "https://www.flightradar24.com/data/airports/romania",
+      "airports": 18,
+      "code": "ROU"
+    },
+    {
+      "name": "Russia",
+      "url": "https://www.flightradar24.com/data/airports/russia",
+      "airports": 167,
+      "code": "RUS"
+    },
+    {
+      "name": "Rwanda",
+      "url": "https://www.flightradar24.com/data/airports/rwanda",
+      "airports": 2,
+      "code": "RWA"
+    },
+    {
+      "name": "Saint Helena",
+      "url": "https://www.flightradar24.com/data/airports/saint-helena",
+      "airports": 2,
+      "code": "SHN"
+    },
+    {
+      "name": "Saint Kitts And Nevis",
+      "url": "https://www.flightradar24.com/data/airports/saint-kitts-and-nevis",
+      "airports": 2,
+      "code": "KNA"
+    },
+    {
+      "name": "Saint Lucia",
+      "url": "https://www.flightradar24.com/data/airports/saint-lucia",
+      "airports": 2,
+      "code": "LCA"
+    },
+    {
+      "name": "Saint Pierre And Miquelon",
+      "url": "https://www.flightradar24.com/data/airports/saint-pierre-and-miquelon",
+      "airports": 1,
+      "code": "SPM"
+    },
+    {
+      "name": "Saint Vincent And The Grenadines",
+      "url": "https://www.flightradar24.com/data/airports/saint-vincent-and-the-grenadines",
+      "airports": 5,
+      "code": "VCT"
+    },
+    {
+      "name": "Samoa",
+      "url": "https://www.flightradar24.com/data/airports/samoa",
+      "airports": 1,
+      "code": "WSM"
+    },
+    {
+      "name": "Sao Tome And Principe",
+      "url": "https://www.flightradar24.com/data/airports/sao-tome-and-principe",
+      "airports": 2,
+      "code": "STP"
+    },
+    {
+      "name": "Saudi Arabia",
+      "url": "https://www.flightradar24.com/data/airports/saudi-arabia",
+      "airports": 28,
+      "code": "SAU"
+    },
+    {
+      "name": "Senegal",
+      "url": "https://www.flightradar24.com/data/airports/senegal",
+      "airports": 4,
+      "code": "SEN"
+    },
+    {
+      "name": "Serbia",
+      "url": "https://www.flightradar24.com/data/airports/serbia",
+      "airports": 3,
+      "code": "SRB"
+    },
+    {
+      "name": "Seychelles",
+      "url": "https://www.flightradar24.com/data/airports/seychelles",
+      "airports": 2,
+      "code": "SYC"
+    },
+    {
+      "name": "Sierra Leone",
+      "url": "https://www.flightradar24.com/data/airports/sierra-leone",
+      "airports": 2,
+      "code": "SLE"
+    },
+    {
+      "name": "Singapore",
+      "url": "https://www.flightradar24.com/data/airports/singapore",
+      "airports": 2,
+      "code": "SGP"
+    },
+    {
+      "name": "Slovakia",
+      "url": "https://www.flightradar24.com/data/airports/slovakia",
+      "airports": 6,
+      "code": "SVK"
+    },
+    {
+      "name": "Slovenia",
+      "url": "https://www.flightradar24.com/data/airports/slovenia",
+      "airports": 3,
+      "code": "SVN"
+    },
+    {
+      "name": "Solomon Islands",
+      "url": "https://www.flightradar24.com/data/airports/solomon-islands",
+      "airports": 14,
+      "code": "SLB"
+    },
+    {
+      "name": "Somalia",
+      "url": "https://www.flightradar24.com/data/airports/somalia",
+      "airports": 7,
+      "code": "SOM"
+    },
+    {
+      "name": "South Africa",
+      "url": "https://www.flightradar24.com/data/airports/south-africa",
+      "airports": 29,
+      "code": "ZAF"
+    },
+    {
+      "name": "South Korea",
+      "url": "https://www.flightradar24.com/data/airports/south-korea",
+      "airports": 15,
+      "code": "KOR"
+    },
+    {
+      "name": "South Sudan",
+      "url": "https://www.flightradar24.com/data/airports/south-sudan",
+      "airports": 4,
+      "code": "SSD"
+    },
+    {
+      "name": "Spain",
+      "url": "https://www.flightradar24.com/data/airports/spain",
+      "airports": 57,
+      "code": "ESP"
+    },
+    {
+      "name": "Sri Lanka",
+      "url": "https://www.flightradar24.com/data/airports/sri-lanka",
+      "airports": 7,
+      "code": "LKA"
+    },
+    {
+      "name": "Sudan",
+      "url": "https://www.flightradar24.com/data/airports/sudan",
+      "airports": 7,
+      "code": "SDN"
+    },
+    {
+      "name": "Suriname",
+      "url": "https://www.flightradar24.com/data/airports/suriname",
+      "airports": 2,
+      "code": "SUR"
+    },
+    {
+      "name": "Sweden",
+      "url": "https://www.flightradar24.com/data/airports/sweden",
+      "airports": 50,
+      "code": "SWE"
+    },
+    {
+      "name": "Switzerland",
+      "url": "https://www.flightradar24.com/data/airports/switzerland",
+      "airports": 19,
+      "code": "CHE"
+    },
+    {
+      "name": "Syria",
+      "url": "https://www.flightradar24.com/data/airports/syria",
+      "airports": 4,
+      "code": "SYR"
+    },
+    {
+      "name": "Taiwan",
+      "url": "https://www.flightradar24.com/data/airports/taiwan",
+      "airports": 16,
+      "code": "TWN"
+    },
+    {
+      "name": "Tajikistan",
+      "url": "https://www.flightradar24.com/data/airports/tajikistan",
+      "airports": 4,
+      "code": "TJK"
+    },
+    {
+      "name": "Tanzania",
+      "url": "https://www.flightradar24.com/data/airports/tanzania",
+      "airports": 22,
+      "code": "TZA"
+    },
+    {
+      "name": "Thailand",
+      "url": "https://www.flightradar24.com/data/airports/thailand",
+      "airports": 35,
+      "code": "THA"
+    },
+    {
+      "name": "Timor-leste (east Timor)",
+      "url": "https://www.flightradar24.com/data/airports/timor-leste-east-timor",
+      "airports": 5,
+      "code": "TLS"
+    },
+    {
+      "name": "Togo",
+      "url": "https://www.flightradar24.com/data/airports/togo",
+      "airports": 1,
+      "code": "TGO"
+    },
+    {
+      "name": "Tonga",
+      "url": "https://www.flightradar24.com/data/airports/tonga",
+      "airports": 3,
+      "code": "TON"
+    },
+    {
+      "name": "Trinidad And Tobago",
+      "url": "https://www.flightradar24.com/data/airports/trinidad-and-tobago",
+      "airports": 2,
+      "code": "TTO"
+    },
+    {
+      "name": "Tunisia",
+      "url": "https://www.flightradar24.com/data/airports/tunisia",
+      "airports": 8,
+      "code": "TUN"
+    },
+    {
+      "name": "Turkey",
+      "url": "https://www.flightradar24.com/data/airports/turkey",
+      "airports": 57,
+      "code": "TUR"
+    },
+    {
+      "name": "Turkmenistan",
+      "url": "https://www.flightradar24.com/data/airports/turkmenistan",
+      "airports": 6,
+      "code": "TKM"
+    },
+    {
+      "name": "Turks And Caicos Islands",
+      "url": "https://www.flightradar24.com/data/airports/turks-and-caicos-islands",
+      "airports": 3,
+      "code": "TCA"
+    },
+    {
+      "name": "Tuvalu",
+      "url": "https://www.flightradar24.com/data/airports/tuvalu",
+      "airports": 1,
+      "code": "TUV"
+    },
+    {
+      "name": "Uganda",
+      "url": "https://www.flightradar24.com/data/airports/uganda",
+      "airports": 8,
+      "code": "UGA"
+    },
+    {
+      "name": "Ukraine",
+      "url": "https://www.flightradar24.com/data/airports/ukraine",
+      "airports": 20,
+      "code": "UKR"
+    },
+    {
+      "name": "United Arab Emirates",
+      "url": "https://www.flightradar24.com/data/airports/united-arab-emirates",
+      "airports": 12,
+      "code": "ARE"
+    },
+    {
+      "name": "United Kingdom",
+      "url": "https://www.flightradar24.com/data/airports/united-kingdom",
+      "airports": 111,
+      "code": "GBR"
+    },
+    {
+      "name": "United States",
+      "url": "https://www.flightradar24.com/data/airports/united-states",
+      "airports": 1374,
+      "code": "USA"
+    },
+    {
+      "name": "United States Minor Outlying Islands",
+      "url": "https://www.flightradar24.com/data/airports/united-states-minor-outlying-islands",
+      "airports": 1,
+      "code": "UMI"
+    },
+    {
+      "name": "Uruguay",
+      "url": "https://www.flightradar24.com/data/airports/uruguay",
+      "airports": 3,
+      "code": "URY"
+    },
+    {
+      "name": "Uzbekistan",
+      "url": "https://www.flightradar24.com/data/airports/uzbekistan",
+      "airports": 12,
+      "code": "UZB"
+    },
+    {
+      "name": "Vanuatu",
+      "url": "https://www.flightradar24.com/data/airports/vanuatu",
+      "airports": 5,
+      "code": "VUT"
+    },
+    {
+      "name": "Venezuela",
+      "url": "https://www.flightradar24.com/data/airports/venezuela",
+      "airports": 21,
+      "code": "VEN"
+    },
+    {
+      "name": "Vietnam",
+      "url": "https://www.flightradar24.com/data/airports/vietnam",
+      "airports": 22,
+      "code": "VNM"
+    },
+    {
+      "name": "Virgin Islands British",
+      "url": "https://www.flightradar24.com/data/airports/virgin-islands-british",
+      "airports": 3,
+      "code": "VGB"
+    },
+    {
+      "name": "Virgin Islands Us",
+      "url": "https://www.flightradar24.com/data/airports/virgin-islands-us",
+      "airports": 2,
+      "code": "VIR"
+    },
+    {
+      "name": "Wallis And Futuna",
+      "url": "https://www.flightradar24.com/data/airports/wallis-and-futuna",
+      "airports": 2,
+      "code": "WLF"
+    },
+    {
+      "name": "Yemen",
+      "url": "https://www.flightradar24.com/data/airports/yemen",
+      "airports": 5,
+      "code": "YEM"
+    },
+    {
+      "name": "Zambia",
+      "url": "https://www.flightradar24.com/data/airports/zambia",
+      "airports": 5,
+      "code": "ZMB"
+    },
+    {
+      "name": "Zimbabwe",
+      "url": "https://www.flightradar24.com/data/airports/zimbabwe",
+      "airports": 3,
+      "code": "ZWE"
+    }
+  ]
+}
